@@ -1,68 +1,76 @@
-# FUTURE_DS_01 - Sales Performance Analytics
+# FUTURE_DS_01 - Business Sales Performance Analytics
 
-## Project Overview
+## 📊 Project Overview
 
-This project analyzes business sales data using Microsoft Power BI to understand sales performance and identify important business trends.
+This project focuses on analyzing business sales data to identify sales trends, top-performing products, category performance, regional performance, and customer segment behavior.
 
-The dashboard provides insights into sales trends, product performance, category performance, regional performance, and customer segments.
+The analysis was developed using **Microsoft Power BI** as part of the Future Interns Data Science & Analytics Internship.
 
-## Objectives
+## 🎯 Objectives
 
-- Analyze sales trends over time
-- Identify top-selling products
-- Compare sales across product categories
+- Analyze overall business sales performance
+- Identify sales trends across different years
 - Analyze sales performance by region
-- Understand customer segment contribution
-- Generate business insights and recommendations
+- Identify top-selling products
+- Compare product category performance
+- Understand sales contribution by customer segment
+- Present key business metrics through an interactive dashboard
 
-## Tools Used
+## 🛠️ Tools & Technologies
 
 - Microsoft Power BI
-- CSV Dataset
 - DAX
+- CSV Dataset
+- Data Visualization
+- Business Intelligence
 
-## Key Performance Indicators
-
-| KPI | Value |
-|---|---:|
-| Total Sales | 2.26M |
-| Total Orders | 4,922 |
-| Total Products | 1,861 |
-| Total Customers | 793 |
-
-## Dashboard
+## 📈 Dashboard
 
 The Power BI dashboard includes:
 
-- Sales by Category
-- Sales by Region
-- Total Sales by Year
-- Top 10 Products by Sales
-- Sales by Customer Segment
-- Key Business Insights
-- Actionable Recommendations
+- Total Orders
+- Total Products
+- Total Sales
+- Total Customers
+- Category Performance
+- Regional Performance
+- Sales Trend
+- Top Products
+- Customer Segment Analysis
 
-## Key Insights
+## 🔑 Key Insights
 
-- Sales increased strongly after 2016, with 2018 recording the highest annual sales.
-- Technology generated the highest sales among the major categories.
-- The West region recorded the highest sales.
-- The South region recorded the lowest sales among the four regions.
-- Consumer customers contributed the largest share of total sales.
+- Total sales generated: **2.26M**
+- Total orders: **4,922**
+- Total customers: **793**
+- Total products: **1,861**
+- The dashboard shows yearly sales trends from **2015 to 2018**.
+- Regional performance varies across West, East, Central, and South regions.
+- Product-level analysis highlights the highest-selling products.
+- Customer segment analysis compares Consumer, Corporate, and Home Office segments.
 
-## Recommendations
+## 💡 Business Recommendations
 
-- Maintain focus on high-performing Technology products.
-- Investigate opportunities to improve sales performance in the South region.
-- Develop targeted strategies for the Consumer customer segment.
-- Analyze the factors contributing to the strong sales growth after 2016.
+- Focus on high-performing products and categories.
+- Monitor regional sales performance to identify opportunities for improvement.
+- Analyze customer segments to develop targeted sales strategies.
+- Track yearly sales trends to support future business planning.
+- Use product-level insights to improve inventory and sales decisions.
 
-## Project Files
+## 📷 Dashboard Preview
 
-- `FUTURE_DS_01.pbix` - Power BI dashboard
-- `train.csv` - Sales dataset
-- Dashboard screenshots - Visual representation of the completed dashboard
+![Sales Performance Dashboard](FUTURE_DS_01_Dashboard.png)
 
-## Internship
+## 📁 Project Files
 
-Future Interns – Data Science & Analytics Internship
+- `FUTURE_DS_01.pbix` - Power BI dashboard file
+- `FUTURE_DS_01_Dashboard.png` - Dashboard preview
+- `train.csv` - Dataset used for analysis
+
+## 👩‍💻 Internship
+
+**Future Interns - Data Science & Analytics**
+
+Task: **Business Sales Performance Analytics**
+
+Track: **Data Science & Analytics**
